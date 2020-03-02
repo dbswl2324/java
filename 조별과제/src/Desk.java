@@ -20,7 +20,7 @@ import java.awt.event.ActionEvent;
 
 public class Desk extends JFrame {
 	   public static String abc;
-
+//주석수정
    private JPanel contentPane;
    public static int time_price;
    /**
